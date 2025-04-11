@@ -8,6 +8,7 @@ nvtop
 neofetch
 flatpak
 blueman
+telegram-desktop
 ```
 
 # `yay -S`

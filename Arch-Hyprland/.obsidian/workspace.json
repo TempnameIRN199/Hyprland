@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "8c81abbb779769bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1d2c9a4839e4a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf8f84d20b60ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My-package/Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e02aabe54173b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "8631e653f9b4fb57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "449b37c187647cfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8ec2da11be443a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfb9e6bc5a7df17a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "b2182ec02c40c4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f633c448bbdd7d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd214568d3635d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hyprland/Install.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Install"
+            }
+          },
+          {
+            "id": "19902ecf67bd7aa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9d06ba13973d6ce6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12bef0b7129517dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hyprland/Install.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Install"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1cf8f84d20b60ff2",
+  "lastOpenFiles": [
+    "My-package/bluetooth.md",
+    "My-package/Software.md",
+    "My-package",
+    "test-install-arch-hyprland/Install-Test.md",
+    "hyprland/Install.md",
+    "Pasted image 20250411152057.png",
+    "hyprland/example/screenshot-bind.png",
+    "hyprland/example/autostart.png",
+    "hyprland/example/edit-FM.png",
+    "hyprland/example/monitors-conf.png",
+    "hyprland/example/change-language.png",
+    "hyprland/package/Themes.md",
+    "hyprland/package/Shell.md",
+    "hyprland/package/Fonts.md",
+    "hyprland/package/First list packages.md",
+    "hyprland/example/monitors-list.png",
+    "test-install-arch-hyprland/important command/Configure your monitor.md",
+    "hyprland/example/2025-04-09-164449_hyprshot.png",
+    "hyprland/example",
+    "test-install-arch-hyprland/example/hyprland.conf.md",
+    "test-install-arch-hyprland/package/Installation packages.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "hyprland/important command",
+    "hyprland/Untitled.md",
+    "hyprland/package",
+    "hyprland",
+    "other/package_test.md",
+    "test-install-arch-hyprland/important command",
+    "test-install-arch-hyprland/Untitled.md",
+    "other/Welcome.md",
+    "other/create a link.md",
+    "test-install-arch-hyprland/package",
+    "test-install-arch-hyprland/example",
+    "other",
+    "test-install-arch-hyprland",
+    "other/Install.md",
+    "other/second-monitor.md",
+    "other/package.md",
+    "other/important-command.md",
+    "other/Install package.md",
+    "2025-04-09.md"
+  ]
+}

@@ -1,0 +1,3 @@
+-- Включить Bluetooth --
+
+bluetoothctl
